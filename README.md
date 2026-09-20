@@ -9,8 +9,8 @@ A complete web-based **Learning Management System (LMS)** built with Laravel to 
 ## 🚀 Features
 
 
-![Admin Dashboard](admin.png)
-
+**Admin Portal**
+![Admin Dashboard](public/admin.png)
 
 ### 👨‍💼 Admin Panel
 
