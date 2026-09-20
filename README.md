@@ -15,7 +15,6 @@ A complete web-based **Learning Management System (LMS)** built with Laravel to 
 ### 👨‍💼 Admin Panel
 
 
-
 - Centralized admin dashboard
 
 - Student management
@@ -40,7 +39,8 @@ A complete web-based **Learning Management System (LMS)** built with Laravel to 
 
 ### 👨‍🏫 Teacher Portal
 
-
+**Teacher Portal**
+![Teacher Dashboard](SaasLMS/public/teacher.png)
 
 - Teacher dashboard
 
@@ -60,7 +60,8 @@ A complete web-based **Learning Management System (LMS)** built with Laravel to 
 
 ### 👨‍🎓 Student Portal
 
-
+**Student Portal**
+![Student Dashboard](SaasLMS/public/student.png)
 
 - Student dashboard
 
