@@ -10,7 +10,8 @@ A complete web-based **Learning Management System (LMS)** built with Laravel to 
 
 
 **Admin Portal**
-![Admin Dashboard](public/teacher.png)
+![Admin Dashboard](https://raw.githubusercontent.com/OshaqNaimat/Learning-Management-System/main/public/admin.png)
+
 
 ### 👨‍💼 Admin Panel
 
